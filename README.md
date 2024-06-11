@@ -7,7 +7,7 @@
 - 🔭 I’m currently a Codeforces Expert and Leetcode Guardian
 - 🌱 I’m currently learning **Java Spring Boot**
 - 🤔 I’m looking for help with Advanced Java concepts
-- 📫 How to reach me: [**LinkedIn**]((https://www.linkedin.com/in/ritikarora108/))
+- 📫 How to reach me: [**LinkedIn**](https://www.linkedin.com/in/ritikarora108/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: On the Bright side, I am not addicted to Caffeine
 
@@ -25,8 +25,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ritik692" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritik692" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ritik692" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ritik692" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ritikarora108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritik692" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ritik108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ritik692" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ritik108" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ritik108" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ritik108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ritik108" height="30" width="40" /></a>
 </p>
