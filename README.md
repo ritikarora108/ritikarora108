@@ -4,7 +4,7 @@
 <br>
 
 - 💪 I'm currently interning at **PayPal** as an SWE 
-- 🔭 I’m currently a Codeforces Expert and Leetcode Guardian
+- 🔭 I’m a Codeforces Expert and Leetcode Guardian
 - 🌱 I’m currently learning **Java Spring Boot**
 - 🤔 I’m looking for help with Advanced Java concepts
 - 📫 How to reach me: [**LinkedIn**](https://www.linkedin.com/in/ritikarora108/)
