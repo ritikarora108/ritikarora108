@@ -5,11 +5,7 @@
 
 - 💪 I'm currently interning at **PayPal** as an SWE 
 - 🔭 I’m a Codeforces Expert and Leetcode Guardian
-- 🌱 I’m currently learning **Java Spring Boot**
-- 🤔 I’m looking for help with Advanced Java concepts
 - 📫 How to reach me: [**LinkedIn**](https://www.linkedin.com/in/ritikarora108/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: On the Bright side, I am not addicted to Caffeine
 
 <div align="center">
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritik692&theme=dark&background=000000&show_icons=true&locale=en&layout=compact" alt="ritik692" /></p>
