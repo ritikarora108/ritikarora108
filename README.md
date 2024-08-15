@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ritik692a&label=Profile+Views)
 <br>
 
-- 💪 I'm currently interning at **PayPal** as an SWE 
+- 💪 I' have interned at **PayPal** as an SWE 
 - 🔭 I’m a Codeforces Expert , Leetcode Guardian and 5* on CodeChef.
 - 📫 How to reach me: [**LinkedIn**](https://www.linkedin.com/in/ritikarora108/)
 
