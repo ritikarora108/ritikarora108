@@ -1,6 +1,6 @@
 ### Hi there 👋
-[![trophy](https://github-profile-trophy.vercel.app/?username=ritik692&theme=monokai&row=1&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)<br>
-![Profile Views](https://komarev.com/ghpvc/?username=ritik692a&label=Profile+Views)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ritikarora106&theme=monokai&row=1&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)<br>
+![Profile Views](https://komarev.com/ghpvc/?username=ritikarora108a&label=Profile+Views)
 <br>
 
 - 💪 I' have interned at **PayPal** as an SWE 
@@ -8,12 +8,12 @@
 - 📫 How to reach me: [**LinkedIn**](https://www.linkedin.com/in/ritikarora108/)
 
 <div align="center">
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritik692&theme=dark&background=000000&show_icons=true&locale=en&layout=compact" alt="ritik692" /></p>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritikarora108&theme=dark&background=000000&show_icons=true&locale=en&layout=compact" alt="ritikarora108" /></p>
 
-  <img src='http://github-readme-streak-stats.herokuapp.com?user=ritik692&theme=dark&background=000000'/>
- <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ritik692&theme=dark&background=000000)](https://git.io/streak-stats)-->
+  <img src='http://github-readme-streak-stats.herokuapp.com?user=ritikarora108&theme=dark&background=000000'/>
+ <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ritikarora108&theme=dark&background=000000)](https://git.io/streak-stats)-->
 
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritik692&theme=dark&background=000000&show_icons=true&locale=en" alt="ritik692" /></p>-->
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritikarora108&theme=dark&background=000000&show_icons=true&locale=en" alt="ritikarora108" /></p>-->
 </div>
 
 
@@ -21,8 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ritikarora108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritik692" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ritik108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ritik692" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ritikarora108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritikarora108" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ritik108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ritikarora108" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ritik108" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ritik108" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ritik108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ritik108" height="30" width="40" /></a>
 </p>
