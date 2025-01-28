@@ -10,8 +10,7 @@
 <div align="center">
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritikarora108&theme=dark&background=000000&show_icons=true&locale=en&layout=compact" alt="ritikarora108" /></p>
 
-  <img src='http://github-readme-streak-stats.herokuapp.com?user=ritikarora108&theme=dark&background=000000'/>
- <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ritikarora108&theme=dark&background=000000)](https://git.io/streak-stats)-->
+ 
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritikarora108&theme=dark&background=000000&show_icons=true&locale=en" alt="ritikarora108" /></p>-->
 </div>
